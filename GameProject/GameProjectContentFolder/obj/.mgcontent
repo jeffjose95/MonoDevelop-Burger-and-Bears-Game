@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Jeff/Documents/Visual Studio 2015/Projects/GameProject/GameProject/GameProjectContentFolder/Content/Audio/BurgerDamage.wav</File>
+    <File>C:/Users/Jeff/Documents/Visual Studio 2015/Projects/GameProject/GameProject/GameProjectContentFolder/Content/Audio/BurgerDeath.wav</File>
+    <File>C:/Users/Jeff/Documents/Visual Studio 2015/Projects/GameProject/GameProject/GameProjectContentFolder/Content/Audio/BurgerShot.wav</File>
+    <File>C:/Users/Jeff/Documents/Visual Studio 2015/Projects/GameProject/GameProject/GameProjectContentFolder/Content/Audio/Explosion.wav</File>
+    <File>C:/Users/Jeff/Documents/Visual Studio 2015/Projects/GameProject/GameProject/GameProjectContentFolder/Content/Audio/TeddyBounce.wav</File>
+    <File>C:/Users/Jeff/Documents/Visual Studio 2015/Projects/GameProject/GameProject/GameProjectContentFolder/Content/Audio/TeddyShot.wav</File>
+    <File>C:/Users/Jeff/Documents/Visual Studio 2015/Projects/GameProject/GameProject/GameProjectContentFolder/Content/Fonts/Arial20.spritefont</File>
+    <File>C:/Users/Jeff/Documents/Visual Studio 2015/Projects/GameProject/GameProject/GameProjectContentFolder/Content/Graphics/burger.png</File>
+    <File>C:/Users/Jeff/Documents/Visual Studio 2015/Projects/GameProject/GameProject/GameProjectContentFolder/Content/Graphics/explosion.png</File>
+    <File>C:/Users/Jeff/Documents/Visual Studio 2015/Projects/GameProject/GameProject/GameProjectContentFolder/Content/Graphics/frenchfries.png</File>
+    <File>C:/Users/Jeff/Documents/Visual Studio 2015/Projects/GameProject/GameProject/GameProjectContentFolder/Content/Graphics/teddybear.png</File>
+    <File>C:/Users/Jeff/Documents/Visual Studio 2015/Projects/GameProject/GameProject/GameProjectContentFolder/Content/Graphics/teddybearprojectile.png</File>
+  </SourceFiles>
+</SourceFileCollection>
